@@ -86,7 +86,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       .updateRandomPhrases();
                   // _loadFavourites();
                 },
-                child: const Text('Tap for more phrases')),
+                child: const Text('Tap for another 10 phrases')),
           ],
         ),
       ),
